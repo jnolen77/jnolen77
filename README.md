@@ -6,7 +6,7 @@
 - succesful operations of many restaurants. 
 - 🌱 I’m currently learning python, css, and javascript. I plan on learning more as well. 
 - 💞️ I’m looking to collaborate on anything beginner friendly in python, html, css, or javascript.
-- 📫 How to reach me. You can reach me at derwurstkoch@gmail.com 
+- 📫 How to reach me. You can reach me at dev.nolen@gmail.com 
 
 <!---
 jnolen77/jnolen77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
